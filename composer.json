@@ -1,0 +1,21 @@
+{
+    "name": "cesar-scur/model-generator",
+    "description": "Code generator for POPO classes from a json (+ interfaces to othe formats).",
+    "type": "library",
+    "require-dev": {
+        "phpunit/phpunit": "9"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CesarScur\\ModelGenerator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Cesar Scur",
+            "email": "csrscr@gmail.com"
+        }
+    ],
+    "require": {}
+}
